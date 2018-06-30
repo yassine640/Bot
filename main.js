@@ -31,4 +31,4 @@ client.on('guildMemberAdd', member => {
   });
   
   
-  client.login('NDYyNTY1OTM2NjMzODcyMzk0.DhjtpQ.mKPco_HizLH929IeM-DNFs7BpgY');
+  client.login('process.env.TOKEN ');
